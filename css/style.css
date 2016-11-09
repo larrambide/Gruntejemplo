@@ -1,0 +1,31 @@
+body, html
+{
+    margin: 0 auto;
+    padding: 0;
+}
+
+nav{
+    height: 60px;
+    background: #c32242;
+}
+header{
+   display: flex;
+    flex-direction: column;
+    height: 400px;
+    background:#61dc14;
+    text-align: center;
+    
+}
+.sct1{
+    height: 200px;
+    background: #61dc14
+    
+}
+.sct2{
+    height: 200px;
+    background: #14dc1c
+}
+footer{
+    height: 200px;
+    background: #dcc514
+}
